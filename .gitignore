@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/DapperProject.Entity/bin/Debug
+/DapperProject.Entity/obj
+/DapperProject.Data/bin/Debug
+/DapperProject.Data/obj
+/.vs
+/DapperProject.Api/bin/Debug
+/DapperProject.Api/obj
